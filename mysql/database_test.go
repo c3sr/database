@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/k0kubun/pp"
-	"github.com/rai-project/config"
+	"github.com/c3sr/config"
 	"github.com/stretchr/testify/assert"
 )
 

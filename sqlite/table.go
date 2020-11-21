@@ -3,8 +3,8 @@ package sqlite
 import (
 	"errors"
 
-	"github.com/rai-project/database"
-	"github.com/rai-project/database/relational"
+	"github.com/c3sr/database"
+	"github.com/c3sr/database/relational"
 )
 
 // NewTable ...

@@ -6,7 +6,7 @@ import (
 	"github.com/pkg/errors"
 
 	"github.com/cenkalti/backoff"
-	"github.com/rai-project/database"
+	"github.com/c3sr/database"
 	"upper.io/db.v3"
 )
 

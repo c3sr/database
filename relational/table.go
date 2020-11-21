@@ -4,7 +4,7 @@ import (
 	"errors"
 
 	"github.com/jinzhu/gorm"
-	"github.com/rai-project/database"
+	"github.com/c3sr/database"
 )
 
 type relationalTable struct {

@@ -11,9 +11,9 @@ import (
 	"upper.io/db.v3"
 	"upper.io/db.v3/mongo"
 
-	"github.com/rai-project/config"
-	"github.com/rai-project/database"
-	"github.com/rai-project/utils"
+	"github.com/c3sr/config"
+	"github.com/c3sr/database"
+	"github.com/c3sr/utils"
 )
 
 type mongoDatabase struct {

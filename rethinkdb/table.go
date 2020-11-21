@@ -3,7 +3,7 @@ package rethinkdb
 import (
 	"errors"
 
-	"github.com/rai-project/database"
+	"github.com/c3sr/database"
 	r "gopkg.in/dancannon/gorethink.v3"
 )
 

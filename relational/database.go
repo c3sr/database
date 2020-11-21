@@ -4,7 +4,7 @@ import (
 	"strings"
 
 	"github.com/jinzhu/gorm"
-	"github.com/rai-project/database"
+	"github.com/c3sr/database"
 	db "upper.io/db.v3"
 )
 

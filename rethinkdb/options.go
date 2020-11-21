@@ -3,12 +3,12 @@ package rethinkdb
 import (
 	"context"
 
-	"github.com/rai-project/database"
+	"github.com/c3sr/database"
 )
 
 const (
-	authKeyKey         = "github.com/rai-project/database/rethinkdb/authKey"
-	initialCapacityKey = "github.com/rai-project/database/rethinkdb/initialCapacity"
+	authKeyKey         = "github.com/c3sr/database/rethinkdb/authKey"
+	initialCapacityKey = "github.com/c3sr/database/rethinkdb/initialCapacity"
 )
 
 // DefaultInitialCapacity ...
